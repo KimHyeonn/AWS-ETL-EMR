@@ -10,3 +10,5 @@ attribution / event 구분 후 해당하는 pyspark 스크립트 생성,
 
 athena 콘솔 내 table에 자동 적용, 업데이트 됨
 
+
+''' lambda 관련, payload 나 event metadata 전달 형식, 방법 등을 숙지할 수 있었고, aws 서비스를 좀 더 이해할 수 있어짐'''
