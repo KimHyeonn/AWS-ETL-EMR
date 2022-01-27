@@ -12,3 +12,5 @@ athena 콘솔 내 table에 자동 적용, 업데이트 됨
 
 
 ''' lambda 관련, payload 나 event metadata 전달 형식, 방법 등을 숙지할 수 있었고, aws 서비스를 좀 더 이해할 수 있어짐'''
+
+''' pyspark append 및 partition 으로, db 적용 효율 향상 '''
