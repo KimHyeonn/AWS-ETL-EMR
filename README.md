@@ -1,4 +1,5 @@
 # AWS-ETL-EMR
+![작업흐름도3](https://user-images.githubusercontent.com/86030068/155476511-c59fe2fe-0846-4205-be0f-52e8a0e39ba6.jpg)
 
 aws-lambda 활용
 (ETL.py / lambda_function.py)
